@@ -80,8 +80,8 @@
 #include <cstring>
 #include <cassert>
 #include <limits>
-#include <iostream>
 #include <iterator>
+#include <iosfwd>
 #include <type_traits>
 #include <utility>
 #include <locale>
